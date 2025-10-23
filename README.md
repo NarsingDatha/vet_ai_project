@@ -138,10 +138,5 @@ Future Enhancements
 
     Integrate with ambulance and emergency services for high-severity cases.
 
-Author
 
-Your Name:
-Email:
-
-GitHub:
 
